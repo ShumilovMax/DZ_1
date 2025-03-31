@@ -1,5 +1,5 @@
 git branch experiment
 git switch experiment
-git commit -m "new branch"
+git push origin experiment
 git branch -d experiment
 git reflog
