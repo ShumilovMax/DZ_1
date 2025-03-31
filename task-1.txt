@@ -3,3 +3,4 @@ git switch experiment
 git push origin experiment
 git branch -d experiment
 git reflog
+git checkout -b experiment <hash>
