@@ -7,3 +7,4 @@ git merge feature
 git add script.sh
 git commit -m "task2"
 git push
+.
