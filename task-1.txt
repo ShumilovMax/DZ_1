@@ -1,0 +1,5 @@
+git branch experiment
+git switch experiment
+git commit -m "new branch"
+git branch -d experiment
+git reflog
